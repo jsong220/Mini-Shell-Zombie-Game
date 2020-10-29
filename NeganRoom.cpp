@@ -1,6 +1,5 @@
 /****************************************************************************
 **Author: Myung Jin Song
-**Date: 12-5-17
 **Description: derived from Space class
 Main function is fight function which will generate random number. Based on 
 player roll and this functions roll, player will be rewarded with increased 
