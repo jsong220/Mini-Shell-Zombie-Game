@@ -1,6 +1,5 @@
 /****************************************************************************
 **Author: Myung Jin Song
-**Date: 12-5-17
 **Description: derived from Space class
 Main function is the battle function. This will return an attack value that
 represents the zombies attacking. To insure players cant go straight into
