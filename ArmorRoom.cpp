@@ -1,6 +1,5 @@
 /****************************************************************************
 **Author: Myung Jin Song
-**Date: 12-5-17
 **Description: derived from Space class.
 Main function is the chooseBox function. This will allow player to choose
 a box with 3 different outcomes. Selection 1 will lead to player decreased 
