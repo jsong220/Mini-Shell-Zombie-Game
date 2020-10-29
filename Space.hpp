@@ -1,6 +1,5 @@
 /****************************************************************************
 **Author: Myung Jin Song
-**Date: 12-5-17
 **Description: header file for Space class
 
 contains pointers of Space class to represent moving to other rooms
