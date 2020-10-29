@@ -1,6 +1,5 @@
 /****************************************************************************
 **Author: Myung Jin Song
-**Date: 12-5-17
 **Description: Main file to test and run game. 
 
 -6 spaces represented by rooms
