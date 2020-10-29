@@ -1,6 +1,5 @@
 /****************************************************************************
 **Author: Myung Jin Song
-**Date: 12-5-17
 **Description: derived from Space class. 
 Main function is the recoverHealth function which acts as a way
 to restore random amounts of health for everytime player returns to hospital 
