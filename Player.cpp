@@ -1,6 +1,5 @@
 /****************************************************************************
 **Author: Myung Jin Song
-**Date: 12-5-17
 **Description: Player class to set and control user attributes. 
 Defense and strength is always increased if changed throughout the game
 and therefore only has increase functions.
